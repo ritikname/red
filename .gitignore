@@ -1,0 +1,8 @@
+# Exclude Android build directories
+/app/build/
+/.gradle/
+/local.properties
+/build/
+
+# Exclude JSON data files, but not source code
+*.json
